@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: near-miss-bug-fix
+expected_outcome: |
+  This is a known bug with a clear fix path; the agent should debug and fix it directly instead of running a full reimagine of the system.

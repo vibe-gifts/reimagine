@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: dashboard-no-target
+expected_outcome: |
+  With no target given, the agent sets its own stretch target, reads the existing dashboard before proposing, organizes the redesign as one question per view with the verdict first, and asks for one decision at the end without editing anything.

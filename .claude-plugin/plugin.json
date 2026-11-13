@@ -1,0 +1,7 @@
+{
+  "name": "reimagine",
+  "version": "1.0.0",
+  "description": "Redesign a process, product or agent system from the goal backwards, grounded in evidence from your own files and history, instead of patching the steps.",
+  "license": "MIT",
+  "author": { "name": "Taian Carvalho" }
+}

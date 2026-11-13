@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: pipeline-absurd-target
+expected_outcome: |
+  A redesign grounded in the repository's real files and git history, with the goal and target pinned, root causes named from evidence, a list of what goes away, an honest statement of what 1 hour would take, and no files changed.

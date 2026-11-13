@@ -1,0 +1,8 @@
+{
+  "name": "reimagine",
+  "owner": { "name": "Vibe Gifts" },
+  "description": "reimagine: redesign from the goal backwards, grounded in evidence.",
+  "plugins": [
+    { "name": "reimagine", "source": "./", "author": { "name": "Taian Carvalho" }, "description": "Redesign a process from the goal backwards, grounded in evidence, instead of patching the steps." }
+  ]
+}
